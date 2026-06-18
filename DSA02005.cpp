@@ -4,7 +4,7 @@ string str;
 vector<char> ch(13);
 int s;
 void inra(){
-    for(int i=1;i<=s;i++)
+    for(int i=1;i<=s;i++) 
            cout<<ch[i];
     cout<<" ";
 }
