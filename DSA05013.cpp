@@ -1,5 +1,5 @@
 //bài toán bậc thang
-//số cách bước đi từ bậc thang thứ 0 đến bậc thang thứ n
+//số cách bước đi từ bậc thang thứ 0 đến bậc thang thứ n 
 //mỗi bước tôi đa được k bậc
 //1<=n<=100000; 1<=k<=100
 #include<bits/stdc++.h>
